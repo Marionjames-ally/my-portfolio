@@ -86,7 +86,9 @@ a{
     margin-left:10%;
 }
 body{
-    background-color: lightgrey;
+    /* background-color: lightgrey; */
+    /* background-image: url('') */
+    overflow: auto;
 }
 h1{
     text-align: center;
