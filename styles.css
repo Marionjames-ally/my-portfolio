@@ -139,6 +139,60 @@ h1{
     padding:5%;
     box-shadow: 2px 2px 5px darkblue;
 }
-#skills{
+#progressbar {
+    background-color: darkblue;
+    border-radius: 20px; /* (heightOfInnerDiv / 2) + padding */
+    padding: 4px;
+  }
+p{
     color:white;
+    font-size: x-large;
 }
+  
+  #progressbar>div {
+    background-color: cyan;
+    width: 68%;
+    height: 16px;
+    border-radius: 10px;
+    padding:1%;
+  }
+  #css {
+    background-color: darkblue;
+    border-radius: 20px; /* (heightOfInnerDiv / 2) + padding */
+    padding: 4px;
+  }
+  #css>div {
+    background-color: cyan;
+    width: 79%;
+    height: 16px;
+    border-radius: 10px;
+    padding:1%;
+  }
+  #html {
+    background-color: darkblue;
+    border-radius: 20px; /* (heightOfInnerDiv / 2) + padding */
+    padding: 4px;
+  }
+  #html>div {
+    background-color: cyan;
+    width: 65%;
+    height: 16px;
+    border-radius: 10px;
+    padding:1%;
+  }
+  #bootstrap {
+    background-color: darkblue;
+    border-radius: 20px; /* (heightOfInnerDiv / 2) + padding */
+    padding: 4px;
+  }
+  #bootstrap>div {
+    background-color: cyan;
+    width: 55%;
+    height: 16px;
+    border-radius: 10px;
+    padding:1%;
+  }
+  #skills{
+      background-color: rgb(1, 1, 10);
+      padding: 3%;
+  }
