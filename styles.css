@@ -101,6 +101,8 @@ h1{
 }
 #about table{
     color: white;
+    margin-right:20%;
+    margin-left:13%;
 }
 #about table td{
     padding: 3%;
@@ -110,9 +112,14 @@ h1{
     align-content: center;
     font-size:large;
     /* box-shadow: 2px 2px 3px darkgoldenrod; */
-    float:left;
+    /* float:left; */
 }
 #about img{
-    width:30%;
-    height: auto;
+    /* width:30%;
+    height: auto; */
+    clear:left;
+    padding:5%;
+    margin-right:20%;
+    margin-left:20%;
+    padding-top: 10px;
 }
