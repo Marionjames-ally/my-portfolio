@@ -196,3 +196,18 @@ p{
       background-color: rgb(1, 1, 10);
       padding: 3%;
   }
+  i{
+      /* color:white; */
+  }
+  #contacts{
+      display:block;
+      justify-content:center;
+      padding:10%;
+      /* background-color: white;
+      color:black; */
+  }
+  h2{
+      /* display:flex;
+      align-content: center; */
+      color:white;
+  }
