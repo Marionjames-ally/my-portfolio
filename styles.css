@@ -7,7 +7,7 @@
 #nav{
     /* background-color: grey; */
     overflow:hidden;
-    position:sticky;
+    position:relative;
     text-align: left;
     margin-left: 40%;
     margin-right:10%;
@@ -32,7 +32,7 @@ li a{
     /* float:left; */
     padding: 30px;
      /* background-color: darkgrey; */
-    position: sticky;
+    position: relative;
     
 }
 li a:hover{
@@ -221,7 +221,8 @@ p{
       /* margin:3%; */
   }
   input{
-      background-color:blue;
+      background-color: burlywood;
       margin:20px;
       padding:2%;
+    
   }
