@@ -220,3 +220,8 @@ p{
       /* float:left; */
       /* margin:3%; */
   }
+  input{
+      background-color:blue;
+      margin:20px;
+      padding:2%;
+  }
