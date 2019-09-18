@@ -196,9 +196,6 @@ p{
       background-color: rgb(1, 1, 10);
       padding: 3%;
   }
-  i{
-      /* color:white; */
-  }
   #contacts{
       display:block;
       justify-content:center;
